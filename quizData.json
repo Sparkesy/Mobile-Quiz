@@ -1,0 +1,62 @@
+[
+  {
+    "question": "In the Monkey Island series, what is the name of the main protagonist?",
+    "options": ["Guybrush Threepwood", "LeChuck", "Elaine Marley", "Stan the Salesman"],
+    "answer": "Guybrush Threepwood",
+    "image": "./assets/monkey-island.jpg"
+  },
+  {
+    "question": "Which game series developed by Blizzard Entertainment made its debut in 1994 and features heroes battling against the forces of evil?",
+    "options": ["Diablo", "Warcraft", "StarCraft", "Overwatch"],
+    "answer": "Diablo",
+    "image": "diablojpg.jpeg"
+  },
+  {
+    "question": "What was the name of the iconic gaming console released by Sony in 1994 that revolutionized the gaming industry?",
+    "options": ["PlayStation", "Nintendo 64", "Sega Saturn", "Xbox"],
+    "answer": "PlayStation",
+    "image": "playstation.jpg"
+  },
+  {
+    "question": "Which popular game series released its first installment in 1991, featuring a blue hedgehog as the main character?",
+    "options": ["Sonic the Hedgehog", "Super Mario", "Crash Bandicoot", "Street Fighter"],
+    "answer": "Sonic the Hedgehog",
+    "image": "sonic.jpg"
+  },
+  {
+    "question": "What was the name of the first 3D platforming game released for the Nintendo 64 in 1996, featuring a hero collecting Power Stars?",
+    "options": ["Super Mario 64", "Banjo-Kazooie", "Donkey Kong 64", "Spyro the Dragon"],
+    "answer": "Super Mario 64",
+    "image": "mario64.webp"
+  },
+  {
+    "question": "Which game series, known for its revolutionary storytelling and cinematic experiences, debuted in 1998 with the release of 'Metal Gear Solid'?",
+    "options": ["Final Fantasy", "Resident Evil", "Silent Hill", "Metal Gear Solid"],
+    "answer": "Metal Gear Solid",
+    "image": "ngs.webp"
+  },
+  {
+    "question": "What was the name of the portable gaming console released by Nintendo in 2001, featuring dual screens and a touch screen?",
+    "options": ["Game Boy Advance", "Nintendo DS", "PSP (PlayStation Portable)", "Game Boy Color"],
+    "answer": "Nintendo DS",
+    "image": "DS.jpeg"
+  },
+  {
+    "question": "Which game series, created by Valve Corporation, introduced the innovative physics-based gameplay and storytelling through environmental puzzles?",
+    "options": ["Half-Life", "Portal", "Counter-Strike", "Team Fortress"],
+    "answer": "Portal",
+    "image": "portal.jpeg"
+  },
+  {
+    "question": "What was the name of the handheld gaming device released by Sega in 1990 to compete with the Game Boy?",
+    "options": ["Game Gear", "Sega Saturn", "Dreamcast", "Sega Nomad"],
+    "answer": "Game Gear",
+    "image": "sonic.jpg"
+  },
+  {
+    "question": "Which popular game series, created by Bungie, launched in 2001 as a first-person shooter for the original Xbox console?",
+    "options": ["Halo", "Call of Duty", "Medal of Honor", "Gears of War"],
+    "answer": "Halo",
+    "image": "halo.jpeg"
+  }
+]
